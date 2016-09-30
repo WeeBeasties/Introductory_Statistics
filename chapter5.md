@@ -1,3 +1,3 @@
 ---
-title       : Insert the chapter title here
+title       : Chapter 4 - Discrete Random Variables
 description : Insert the chapter description here
