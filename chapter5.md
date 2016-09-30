@@ -1,3 +1,3 @@
 ---
-title       : Chapter 3 - Probability Topics
+title       : Insert the chapter title here
 description : Insert the chapter description here
