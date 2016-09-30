@@ -7,9 +7,9 @@ attachments :
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:b6251e2667
 ## A Brief Introduction  
 
-### About This Course  
+#### About This Course  
 
-This DataCamp course is meant to supplement the free, peer-reviewed **Introductory Statistics** textbook produced by [OpenStax](https://openstax.org/details/books/introductory-statistics).
+Welcome to Introductory Statistics! This DataCamp course is meant to acts as a supplement to the free, peer-reviewed *Introductory Statistics* textbook produced by [OpenStax](https://openstax.org/details/books/introductory-statistics). 
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
