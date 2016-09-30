@@ -1,3 +1,3 @@
 ---
-title       : Chapter 4 - Discrete Random Variables
+title       : Chapter 5 - Continuous Random Variables
 description : Insert the chapter description here
