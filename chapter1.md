@@ -17,7 +17,6 @@ Have a look at the plot that showed up in the viewer to the right. Which type of
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
---- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:4894d6f609
 *** =instructions
 - Adventure
 - Action
