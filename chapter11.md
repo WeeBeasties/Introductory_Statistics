@@ -1,3 +1,3 @@
 ---
-title       : Chapter 11 - The Chi-Square Distribution
+title       : Chapter 10 - Hypothesis Testing with Two Variables
 description : Insert the chapter description here
