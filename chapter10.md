@@ -1,3 +1,3 @@
 ---
-title       : Chapter 10 - Hypothesis Testing with Two Variables
+title       : Chapter 9 - Hypothesis Testing with One Variable
 description : Insert the chapter description here
