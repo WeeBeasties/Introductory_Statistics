@@ -1,3 +1,3 @@
 ---
-title       : Chapter 7 - The Central Limit Theorem
+title       : Chapter 6 - The Normal Distribution
 description : Insert the chapter description here
