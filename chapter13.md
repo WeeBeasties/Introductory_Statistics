@@ -1,3 +1,3 @@
 ---
-title       : Chapter 13 - F Distribution and One-Way ANOVA
+title       : Chapter 12 - Linear Regression and Correlation
 description : Insert the chapter description here
