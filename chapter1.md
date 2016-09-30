@@ -5,7 +5,9 @@ attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:b6251e2667
-## A really bad movie
+## Welcome to Introductory Statistics
+
+This DataCamp course is meant to supplement the free, peer-reviewed **Introductory Statistics** textbook produced by [OpenStax](https://openstax.org/details/books/introductory-statistics).
 
 Have a look at the plot that showed up in the viewer to the right. Which type of movie has the worst rating assigned to it?
 
