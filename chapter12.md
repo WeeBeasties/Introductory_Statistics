@@ -1,3 +1,3 @@
 ---
-title       : Insert the chapter title here
+title       : Chapter 12 - Linear Regression and Correlation
 description : Insert the chapter description here
