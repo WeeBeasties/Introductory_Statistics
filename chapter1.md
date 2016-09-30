@@ -1,11 +1,13 @@
 ---
-title       : A Brief Introduction to the Course
+title       : A Brief Introduction to This Course
 description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
 --- type:MultipleChoiceExercise lang:r xp:50 skills:1 key:b6251e2667
-## Welcome to Introductory Statistics
+## A Brief Introduction  
+
+### About This Course  
 
 This DataCamp course is meant to supplement the free, peer-reviewed **Introductory Statistics** textbook produced by [OpenStax](https://openstax.org/details/books/introductory-statistics).
 
