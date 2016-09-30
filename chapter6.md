@@ -1,3 +1,3 @@
 ---
-title       : Chapter 6 - The Normal Distribution
+title       : Chapter 5 - Continuous Random Variables
 description : Insert the chapter description here
