@@ -1,3 +1,3 @@
 --- 
-title       : Chapter 2 - Descriptive Statistics
+title       : Chapter 1 - Sampling and Data
 description : Insert the chapter description here
