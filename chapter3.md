@@ -1,3 +1,3 @@
 ---
-title       : Chapter 2 - Descriptive Statistics
+title       : Chapter 3 - Probability Topcs
 description : Insert the chapter description here
