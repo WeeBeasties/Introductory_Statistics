@@ -1,3 +1,3 @@
 ---
-title       : Chapter 8 - Confidence Intervals
+title       : Chapter 7 - The Central Limit Theorem
 description : Insert the chapter description here
