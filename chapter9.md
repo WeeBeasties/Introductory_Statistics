@@ -1,3 +1,3 @@
 ---
-title       : Chapter 9 - Hypothesis Testing with One Variable
+title       : Chapter 8 - Confidence Intervals
 description : Insert the chapter description here
