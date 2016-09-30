@@ -1,3 +1,3 @@
 ---
-title       : Chapter 4 - Discrete Random Variables
+title       : Chapter 3 - Probability Topcs
 description : Insert the chapter description here
