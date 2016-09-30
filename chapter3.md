@@ -1,3 +1,3 @@
 ---
-title       : Insert the chapter title here
+title       : Chapter 2 - Descriptive Statistics
 description : Insert the chapter description here
