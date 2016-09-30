@@ -1,3 +1,3 @@
 ---
-title       : Chapter 12 - Linear Regression and Correlation
+title       : Chapter 11 - The Chi-Square Distribution
 description : Insert the chapter description here
